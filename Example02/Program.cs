@@ -1,5 +1,5 @@
-﻿int numberA = 5;
-int numberB = 7;
+﻿int numberA = -3;
+int numberB = 8;
 
 Console.Write("Большее число, ");
     if (numberA > numberB)
